@@ -1,12 +1,8 @@
----
-
----
-Origin: {{ site.cydia.title }}
-Label: {{ site.cydia.title }}
+Origin: rheard.com/cydia
+Label: rheard.com/cydia
 Suite: stable
-Version: 1.0
-Codename: Jack Yin
-Support: https://jkyin.me
+Version: 1.6.3
+Codename: rheard-com-cydia
 Architectures: iphoneos-arm
 Components: main
-Description: {{ site.cydia.title }}
+Description: rheard.com/cydia
