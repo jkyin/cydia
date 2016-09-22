@@ -1,5 +1,5 @@
 Package: com.rheard.reveal-loader
-Version: 2.0-1
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Richard Heard <cydia@rheard.com>
 Installed-Size: 120
@@ -19,4 +19,3 @@ Description: dynamically loads Reveal into applications
 Tag: role::developer, purpose::extension
 Author: Richard Heard <cydia@rheard.com>
 Name: Reveal Loader
-
