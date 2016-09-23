@@ -1,21 +1,22 @@
-Package: com.rheard.reveal-loader
-Version: 2.0-2
+Package: me.jkyin.reveal-loader
+Version: 2.0
 Architecture: iphoneos-arm
-Maintainer: Richard Heard <cydia@rheard.com>
-Installed-Size: 120
+Maintainer: Jack Yin <jkyin.me>
+Installed-Size: 216
 Depends: mobilesubstrate, preferenceloader, applist
-Conflicts: com.rheard.rhrevealloader
-Replaces: com.rheard.rhrevealloader
-Filename: debs/com.rheard.reveal-loader_2.0_iphoneos-arm.deb
-Size: 439834
-MD5sum: 5dbf06b5700e6e1f1d558b53ef7b2b84
-SHA1: 67954f2f3c682e4a404138aeed5c9d23ba34ce10
-SHA256: 405ba10a86b4c43af4e21149280ef7ab100a3874752e6a0d54cd66cb18262292
+Conflicts: me.jkyin.rhrevealloader
+Replaces: me.jkyin.rhrevealloader
+Filename: debs/me.jkyin.reveal-loader_2.0_iphoneos-arm.deb
+Size: 438590
+MD5sum: 03ef3a5a0c640ccb58bd29e856673a59
+SHA1: 744fcbe2d90239bfd329d1a8c5f863293402eccf
+SHA256: ec6d0be6b5d7213dc7e7d47cea9d66e21dc6faa5d71ec4c79ee5b37a1a4aa00d
 Section: Tweaks
 Description: dynamically loads Reveal into applications
- RevealLoader dynamically loads libReveal.dylib (Reveal.app support) into iOS apps
+ RevealLoader dynamically loads RevealServer (Reveal.app support) into iOS apps
  on jailbroken devices. Configuration is via the Reveal menu in Settings.app
  For more info, see http://github.com/heardrwt/RevealLoader and http://revealapp.com
+ or contact to https://jkyin.me
 Tag: role::developer, purpose::extension
 Author: Richard Heard <cydia@rheard.com>
 Name: Reveal Loader
