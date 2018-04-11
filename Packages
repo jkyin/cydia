@@ -1,16 +1,16 @@
 Package: me.jkyin.reveal-loader
-Version: 11
+Version: 14
 Architecture: iphoneos-arm
 Maintainer: Jack Yin <jkyin.me>
 Installed-Size: 216
 Depends: mobilesubstrate, preferenceloader, applist
 Conflicts: me.jkyin.rhrevealloader
 Replaces: me.jkyin.rhrevealloader
-Filename: debs/me.jkyin.reveal-loader_11_iphoneos-arm.deb
-Size: 439254
-MD5sum: 09ed50281ec4d214f13a9f2dbf96e7ad
-SHA1: 4a3501f7b1ca7db91df97d07d4f5c799b0594548
-SHA256: 54a276b852b831c0b10ae4a20f9f20c52ca61ec66425bb46fadd1786757a3762
+Filename: debs/me.jkyin.reveal-loader_14_iphoneos-arm.deb
+Size: 439354
+MD5sum: 755bff1367ea0acd81bc196ab0e036d8
+SHA1: 55bc6eb5222a5b5091a74e7bec84bd86ea86eb00
+SHA256: 63569295d1bf30c705ab8c2b401d224ba1737e34396549839afe51784aa6be24
 Section: Tweaks
 Description: dynamically loads Reveal into applications
  RevealLoader dynamically loads RevealServer (Reveal.app support) into iOS apps
