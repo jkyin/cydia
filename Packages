@@ -7,10 +7,10 @@ Depends: mobilesubstrate, preferenceloader, applist
 Conflicts: me.jkyin.revealloader2, com.rheard.reveal-loader, me.jkyin.reveal-loader
 Replaces: me.jkyin.revealloader2, com.rheard.reveal-loader, me.jkyin.reveal-loader
 Filename: debs/me.jkyin.revealloader2_22.0.1_iphoneos-arm.deb
-Size: 16236
-MD5sum: 16f036354b7d3265fbb8f21747197d3e
-SHA1: ac028ab1d6592fcf6f60db56badf629244d3b258
-SHA256: ecc36d886356b48bba44365719ab94689ce269d59c9fe8e5379adde6ded6059e
+Size: 16238
+MD5sum: 0290cee0002d360383df4146b3c3939b
+SHA1: e2cb6e3f1818aafdde6c739b91d82b651a4295eb
+SHA256: 733f7cf5b9eab3aac681910eb4374967040d61030caac072b0e6a91857d18890
 Section: Tweaks
 Description: dynamically loads Reveal into applications
  RevealLoader dynamically loads RevealServer (Reveal.app support) into iOS apps
