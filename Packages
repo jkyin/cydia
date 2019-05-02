@@ -1,23 +1,18 @@
 Package: me.jkyin.reveal-loader
-Version: 14
 Architecture: iphoneos-arm
 Maintainer: Jack Yin <jkyin.me>
-Installed-Size: 216
 Depends: mobilesubstrate, preferenceloader, applist
-Conflicts: me.jkyin.rhrevealloader
-Replaces: me.jkyin.rhrevealloader
-Filename: debs/me.jkyin.reveal-loader_14_iphoneos-arm.deb
-Size: 439354
-MD5sum: 755bff1367ea0acd81bc196ab0e036d8
-SHA1: 55bc6eb5222a5b5091a74e7bec84bd86ea86eb00
-SHA256: 63569295d1bf30c705ab8c2b401d224ba1737e34396549839afe51784aa6be24
+Conflicts: me.jkyin.reveal-loader, com.rheard.reveal-loader
+Replaces: com.jkyin.reveal-loader, com.rheard.reveal-loader
+Filename: debs/me.jkyin.reveal-loader_22.0_iphoneos-arm.deb
+Size: 439548
+MD5sum: deda80409d4ce695319bde7c8321f69c
+SHA1: b731e68978b13f453af882d5610fc72d6cb4023b
+SHA256: f83155c0d814d4cb438b3cdde3eaa3d78eebc4b50b82f81cebd1325588ed3074
 Section: Tweaks
 Description: dynamically loads Reveal into applications
  RevealLoader dynamically loads RevealServer (Reveal.app support) into iOS apps
- on jailbroken devices. Configuration is via the Reveal menu in Settings.app
- For more info, see http://github.com/heardrwt/RevealLoader and http://revealapp.com
- or contact to https://jkyin.me
-Tag: role::developer, purpose::extension
+ on jailbroken devices for iOS 11+.
 Author: Richard Heard <cydia@rheard.com>
 Name: Reveal Loader
 
